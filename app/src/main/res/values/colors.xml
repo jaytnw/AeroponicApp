@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Aero">#40a7fe</color>
+    <color name="aero">#3fa6fd</color>
+    <color name="white">#ffffff</color>
+    <color name="Aero_first">#1c95fd</color>
+    <color name="Aero_first2">#0079ca</color>
+    <color name="mdtp_accent_color">#40a7fe</color>
+    <color name="mdtp_accent_color_dark">#0079ca</color>
+
+    <color name="MPD_primaryColor">#1c95fd</color>
+    <color name="MPD_primaryColorLight">#C5CAE9</color>
+    <color name="MPD_backGroundColor">#FFF</color>
+    <color name="MPD_pickerItemColorUnSelected">#00FFFFFF</color>
+    <color name="MPD_pickerItemColorSelected">#1c95fd</color>
+    <color name="MPD_pickerItemTextColorUnSelected">#444</color>
+    <color name="MPD_pickerItemTextColorSelected">#bbffffff</color>
+    <color name="MPD_pickerSelectedTextColor">#FFF</color>
+
+</resources>
